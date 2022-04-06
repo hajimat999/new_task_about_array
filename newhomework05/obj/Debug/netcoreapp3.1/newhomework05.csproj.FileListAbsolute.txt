@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\bin\Debug\netcoreapp3.1\newhomework05.exe
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\bin\Debug\netcoreapp3.1\newhomework05.deps.json
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\bin\Debug\netcoreapp3.1\newhomework05.runtimeconfig.json
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\bin\Debug\netcoreapp3.1\newhomework05.runtimeconfig.dev.json
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\bin\Debug\netcoreapp3.1\newhomework05.dll
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\bin\Debug\netcoreapp3.1\newhomework05.pdb
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\obj\Debug\netcoreapp3.1\newhomework05.csproj.AssemblyReference.cache
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\obj\Debug\netcoreapp3.1\newhomework05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\obj\Debug\netcoreapp3.1\newhomework05.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\obj\Debug\netcoreapp3.1\newhomework05.AssemblyInfo.cs
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\obj\Debug\netcoreapp3.1\newhomework05.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\obj\Debug\netcoreapp3.1\newhomework05.dll
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\obj\Debug\netcoreapp3.1\newhomework05.pdb
+C:\Users\Baku\Desktop\New1\newhomework05\newhomework05\obj\Debug\netcoreapp3.1\newhomework05.genruntimeconfig.cache
